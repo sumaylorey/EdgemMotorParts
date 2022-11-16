@@ -1,0 +1,228 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "EdgemMotorParts.Core/1.0.0": {
+        "dependencies": {
+          "DevExpress.ExpressApp.v20.2": "20.2.5.0",
+          "DevExpress.Xpo.v20.2": "20.2.5.0"
+        },
+        "runtime": {
+          "EdgemMotorParts.Core.dll": {}
+        }
+      },
+      "DevExpress.ExpressApp.v20.2/20.2.5.0": {
+        "runtime": {
+          "DevExpress.ExpressApp.v20.2.dll": {
+            "assemblyVersion": "20.2.5.0",
+            "fileVersion": "20.2.5.0"
+          }
+        },
+        "resources": {
+          "de/DevExpress.ExpressApp.v20.2.resources.dll": {
+            "locale": "de"
+          },
+          "es/DevExpress.ExpressApp.v20.2.resources.dll": {
+            "locale": "es"
+          },
+          "ja/DevExpress.ExpressApp.v20.2.resources.dll": {
+            "locale": "ja"
+          },
+          "ru/DevExpress.ExpressApp.v20.2.resources.dll": {
+            "locale": "ru"
+          }
+        }
+      },
+      "DevExpress.Xpo.v20.2/20.2.5.0": {
+        "runtime": {
+          "DevExpress.Xpo.v20.2.dll": {
+            "assemblyVersion": "20.2.5.0",
+            "fileVersion": "20.2.5.0"
+          }
+        },
+        "resources": {
+          "de/DevExpress.Xpo.v20.2.resources.dll": {
+            "locale": "de"
+          },
+          "es/DevExpress.Xpo.v20.2.resources.dll": {
+            "locale": "es"
+          },
+          "ja/DevExpress.Xpo.v20.2.resources.dll": {
+            "locale": "ja"
+          },
+          "ru/DevExpress.Xpo.v20.2.resources.dll": {
+            "locale": "ru"
+          }
+        }
+      },
+      "DevExpress.Data.v20.2/20.2.5.0": {
+        "runtime": {
+          "DevExpress.Data.v20.2.dll": {
+            "assemblyVersion": "20.2.5.0",
+            "fileVersion": "20.2.5.0"
+          }
+        },
+        "resources": {
+          "de/DevExpress.Data.v20.2.resources.dll": {
+            "locale": "de"
+          },
+          "es/DevExpress.Data.v20.2.resources.dll": {
+            "locale": "es"
+          },
+          "ja/DevExpress.Data.v20.2.resources.dll": {
+            "locale": "ja"
+          },
+          "ru/DevExpress.Data.v20.2.resources.dll": {
+            "locale": "ru"
+          }
+        }
+      },
+      "DevExpress.Utils.v20.2/20.2.5.0": {
+        "runtime": {
+          "DevExpress.Utils.v20.2.dll": {
+            "assemblyVersion": "20.2.5.0",
+            "fileVersion": "20.2.5.0"
+          }
+        },
+        "resources": {
+          "de/DevExpress.Utils.v20.2.resources.dll": {
+            "locale": "de"
+          },
+          "es/DevExpress.Utils.v20.2.resources.dll": {
+            "locale": "es"
+          },
+          "ja/DevExpress.Utils.v20.2.resources.dll": {
+            "locale": "ja"
+          },
+          "ru/DevExpress.Utils.v20.2.resources.dll": {
+            "locale": "ru"
+          }
+        }
+      },
+      "DevExpress.Images.v20.2/20.2.5.0": {
+        "runtime": {
+          "DevExpress.Images.v20.2.dll": {
+            "assemblyVersion": "20.2.5.0",
+            "fileVersion": "20.2.5.0"
+          }
+        }
+      },
+      "DevExpress.Printing.v20.2.Core/20.2.5.0": {
+        "runtime": {
+          "DevExpress.Printing.v20.2.Core.dll": {
+            "assemblyVersion": "20.2.5.0",
+            "fileVersion": "20.2.5.0"
+          }
+        },
+        "resources": {
+          "de/DevExpress.Printing.v20.2.Core.resources.dll": {
+            "locale": "de"
+          },
+          "es/DevExpress.Printing.v20.2.Core.resources.dll": {
+            "locale": "es"
+          },
+          "ja/DevExpress.Printing.v20.2.Core.resources.dll": {
+            "locale": "ja"
+          },
+          "ru/DevExpress.Printing.v20.2.Core.resources.dll": {
+            "locale": "ru"
+          }
+        }
+      },
+      "DevExpress.Data.Desktop.v20.2/20.2.5.0": {
+        "runtime": {
+          "DevExpress.Data.Desktop.v20.2.dll": {
+            "assemblyVersion": "20.2.5.0",
+            "fileVersion": "20.2.5.0"
+          }
+        }
+      },
+      "DevExpress.Pdf.v20.2.Core/20.2.5.0": {
+        "runtime": {
+          "DevExpress.Pdf.v20.2.Core.dll": {
+            "assemblyVersion": "20.2.5.0",
+            "fileVersion": "20.2.5.0"
+          }
+        },
+        "resources": {
+          "de/DevExpress.Pdf.v20.2.Core.resources.dll": {
+            "locale": "de"
+          },
+          "es/DevExpress.Pdf.v20.2.Core.resources.dll": {
+            "locale": "es"
+          },
+          "ja/DevExpress.Pdf.v20.2.Core.resources.dll": {
+            "locale": "ja"
+          },
+          "ru/DevExpress.Pdf.v20.2.Core.resources.dll": {
+            "locale": "ru"
+          }
+        }
+      },
+      "DevExpress.Pdf.v20.2.Drawing/20.2.5.0": {
+        "runtime": {
+          "DevExpress.Pdf.v20.2.Drawing.dll": {
+            "assemblyVersion": "20.2.5.0",
+            "fileVersion": "20.2.5.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EdgemMotorParts.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DevExpress.ExpressApp.v20.2/20.2.5.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DevExpress.Xpo.v20.2/20.2.5.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DevExpress.Data.v20.2/20.2.5.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DevExpress.Utils.v20.2/20.2.5.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DevExpress.Images.v20.2/20.2.5.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DevExpress.Printing.v20.2.Core/20.2.5.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DevExpress.Data.Desktop.v20.2/20.2.5.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DevExpress.Pdf.v20.2.Core/20.2.5.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DevExpress.Pdf.v20.2.Drawing/20.2.5.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

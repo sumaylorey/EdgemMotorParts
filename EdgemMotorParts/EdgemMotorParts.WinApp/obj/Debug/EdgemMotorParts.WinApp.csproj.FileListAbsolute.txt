@@ -1,0 +1,137 @@
+E:\Report Monitor System\Solution1\Solution1.Win\bin\Debug\Model.xafml
+E:\Report Monitor System\Solution1\Solution1.Win\bin\Debug\EdgemMotorParts.WinApp.exe.config
+E:\Report Monitor System\Solution1\Solution1.Win\bin\Debug\EdgemMotorParts.WinApp.exe
+E:\Report Monitor System\Solution1\Solution1.Win\bin\Debug\EdgemMotorParts.WinApp.pdb
+E:\Report Monitor System\Solution1\Solution1.Win\bin\Debug\EdgemMotorParts.Module.dll
+E:\Report Monitor System\Solution1\Solution1.Win\bin\Debug\EdgemMotorParts.Module.Win.dll
+E:\Report Monitor System\Solution1\Solution1.Win\bin\Debug\DevExpress.PivotGrid.v20.2.Core.dll
+E:\Report Monitor System\Solution1\Solution1.Win\bin\Debug\DevExpress.Map.v20.2.Core.dll
+E:\Report Monitor System\Solution1\Solution1.Win\bin\Debug\DevExpress.XtraTreeMap.v20.2.dll
+E:\Report Monitor System\Solution1\Solution1.Win\bin\Debug\DevExpress.XtraReports.v20.2.dll
+E:\Report Monitor System\Solution1\Solution1.Win\bin\Debug\DevExpress.XtraGauges.v20.2.Core.dll
+E:\Report Monitor System\Solution1\Solution1.Win\bin\Debug\DevExpress.Charts.v20.2.Core.dll
+E:\Report Monitor System\Solution1\Solution1.Win\bin\Debug\DevExpress.TreeMap.v20.2.Core.dll
+E:\Report Monitor System\Solution1\Solution1.Win\bin\Debug\DevExpress.Sparkline.v20.2.Core.dll
+E:\Report Monitor System\Solution1\Solution1.Win\bin\Debug\DevExpress.XtraPivotGrid.v20.2.dll
+E:\Report Monitor System\Solution1\Solution1.Win\bin\Debug\DevExpress.XtraMap.v20.2.dll
+E:\Report Monitor System\Solution1\Solution1.Win\bin\Debug\DevExpress.XtraGauges.v20.2.Win.dll
+E:\Report Monitor System\Solution1\Solution1.Win\bin\Debug\DevExpress.XtraTreeMap.v20.2.UI.dll
+E:\Report Monitor System\Solution1\Solution1.Win\bin\Debug\DevExpress.Utils.v20.2.UI.dll
+E:\Report Monitor System\Solution1\Solution1.Win\bin\Debug\DevExpress.XtraGauges.v20.2.Presets.dll
+E:\Report Monitor System\Solution1\Solution1.Win\bin\Debug\DevExpress.CodeParser.v20.2.dll
+E:\Report Monitor System\Solution1\Solution1.Win\bin\Debug\DevExpress.XtraDiagram.v20.2.dll
+E:\Report Monitor System\Solution1\Solution1.Win\bin\Debug\DevExpress.Diagram.v20.2.Core.dll
+E:\Report Monitor System\Solution1\Solution1.Win\bin\Debug\DevExpress.Images.v20.2.dll
+E:\Report Monitor System\Solution1\Solution1.Win\bin\Debug\DevExpress.Pdf.v20.2.Core.dll
+E:\Report Monitor System\Solution1\Solution1.Win\bin\Debug\DevExpress.XtraScheduler.v20.2.Core.dll
+E:\Report Monitor System\Solution1\Solution1.Win\bin\Debug\DevExpress.Pdf.v20.2.Drawing.dll
+E:\Report Monitor System\Solution1\Solution1.Win\bin\Debug\DevExpress.DataVisualization.v20.2.Core.dll
+E:\Report Monitor System\Solution1\Solution1.Win\bin\Debug\EdgemMotorParts.Module.Win.pdb
+E:\Report Monitor System\Solution1\Solution1.Win\bin\Debug\EdgemMotorParts.Module.pdb
+E:\Report Monitor System\Solution1\Solution1.Win\bin\Debug\DevExpress.PivotGrid.v20.2.Core.xml
+E:\Report Monitor System\Solution1\Solution1.Win\bin\Debug\DevExpress.Map.v20.2.Core.xml
+E:\Report Monitor System\Solution1\Solution1.Win\bin\Debug\DevExpress.XtraTreeMap.v20.2.xml
+E:\Report Monitor System\Solution1\Solution1.Win\bin\Debug\DevExpress.XtraReports.v20.2.xml
+E:\Report Monitor System\Solution1\Solution1.Win\bin\Debug\DevExpress.XtraGauges.v20.2.Core.xml
+E:\Report Monitor System\Solution1\Solution1.Win\bin\Debug\DevExpress.TreeMap.v20.2.Core.xml
+E:\Report Monitor System\Solution1\Solution1.Win\bin\Debug\DevExpress.Sparkline.v20.2.Core.xml
+E:\Report Monitor System\Solution1\Solution1.Win\bin\Debug\DevExpress.XtraPivotGrid.v20.2.xml
+E:\Report Monitor System\Solution1\Solution1.Win\bin\Debug\DevExpress.XtraMap.v20.2.xml
+E:\Report Monitor System\Solution1\Solution1.Win\bin\Debug\DevExpress.XtraGauges.v20.2.Win.xml
+E:\Report Monitor System\Solution1\Solution1.Win\bin\Debug\DevExpress.XtraTreeMap.v20.2.UI.xml
+E:\Report Monitor System\Solution1\Solution1.Win\bin\Debug\DevExpress.Utils.v20.2.UI.xml
+E:\Report Monitor System\Solution1\Solution1.Win\bin\Debug\DevExpress.XtraGauges.v20.2.Presets.xml
+E:\Report Monitor System\Solution1\Solution1.Win\bin\Debug\DevExpress.XtraDiagram.v20.2.xml
+E:\Report Monitor System\Solution1\Solution1.Win\bin\Debug\DevExpress.Diagram.v20.2.Core.xml
+E:\Report Monitor System\Solution1\Solution1.Win\bin\Debug\DevExpress.Pdf.v20.2.Core.xml
+E:\Report Monitor System\Solution1\Solution1.Win\bin\Debug\DevExpress.XtraScheduler.v20.2.Core.xml
+E:\Report Monitor System\Solution1\Solution1.Win\bin\Debug\DevExpress.Pdf.v20.2.Drawing.xml
+E:\Report Monitor System\Solution1\Solution1.Win\bin\Debug\de\DevExpress.PivotGrid.v20.2.Core.resources.dll
+E:\Report Monitor System\Solution1\Solution1.Win\bin\Debug\es\DevExpress.PivotGrid.v20.2.Core.resources.dll
+E:\Report Monitor System\Solution1\Solution1.Win\bin\Debug\ja\DevExpress.PivotGrid.v20.2.Core.resources.dll
+E:\Report Monitor System\Solution1\Solution1.Win\bin\Debug\ru\DevExpress.PivotGrid.v20.2.Core.resources.dll
+E:\Report Monitor System\Solution1\Solution1.Win\bin\Debug\de\DevExpress.Map.v20.2.Core.resources.dll
+E:\Report Monitor System\Solution1\Solution1.Win\bin\Debug\es\DevExpress.Map.v20.2.Core.resources.dll
+E:\Report Monitor System\Solution1\Solution1.Win\bin\Debug\ja\DevExpress.Map.v20.2.Core.resources.dll
+E:\Report Monitor System\Solution1\Solution1.Win\bin\Debug\ru\DevExpress.Map.v20.2.Core.resources.dll
+E:\Report Monitor System\Solution1\Solution1.Win\bin\Debug\de\DevExpress.XtraReports.v20.2.resources.dll
+E:\Report Monitor System\Solution1\Solution1.Win\bin\Debug\es\DevExpress.XtraReports.v20.2.resources.dll
+E:\Report Monitor System\Solution1\Solution1.Win\bin\Debug\ja\DevExpress.XtraReports.v20.2.resources.dll
+E:\Report Monitor System\Solution1\Solution1.Win\bin\Debug\ru\DevExpress.XtraReports.v20.2.resources.dll
+E:\Report Monitor System\Solution1\Solution1.Win\bin\Debug\de\DevExpress.XtraGauges.v20.2.Core.resources.dll
+E:\Report Monitor System\Solution1\Solution1.Win\bin\Debug\es\DevExpress.XtraGauges.v20.2.Core.resources.dll
+E:\Report Monitor System\Solution1\Solution1.Win\bin\Debug\ja\DevExpress.XtraGauges.v20.2.Core.resources.dll
+E:\Report Monitor System\Solution1\Solution1.Win\bin\Debug\ru\DevExpress.XtraGauges.v20.2.Core.resources.dll
+E:\Report Monitor System\Solution1\Solution1.Win\bin\Debug\de\DevExpress.Sparkline.v20.2.Core.resources.dll
+E:\Report Monitor System\Solution1\Solution1.Win\bin\Debug\es\DevExpress.Sparkline.v20.2.Core.resources.dll
+E:\Report Monitor System\Solution1\Solution1.Win\bin\Debug\ja\DevExpress.Sparkline.v20.2.Core.resources.dll
+E:\Report Monitor System\Solution1\Solution1.Win\bin\Debug\ru\DevExpress.Sparkline.v20.2.Core.resources.dll
+E:\Report Monitor System\Solution1\Solution1.Win\bin\Debug\de\DevExpress.XtraPivotGrid.v20.2.resources.dll
+E:\Report Monitor System\Solution1\Solution1.Win\bin\Debug\es\DevExpress.XtraPivotGrid.v20.2.resources.dll
+E:\Report Monitor System\Solution1\Solution1.Win\bin\Debug\ja\DevExpress.XtraPivotGrid.v20.2.resources.dll
+E:\Report Monitor System\Solution1\Solution1.Win\bin\Debug\ru\DevExpress.XtraPivotGrid.v20.2.resources.dll
+E:\Report Monitor System\Solution1\Solution1.Win\bin\Debug\de\DevExpress.Utils.v20.2.UI.resources.dll
+E:\Report Monitor System\Solution1\Solution1.Win\bin\Debug\es\DevExpress.Utils.v20.2.UI.resources.dll
+E:\Report Monitor System\Solution1\Solution1.Win\bin\Debug\ja\DevExpress.Utils.v20.2.UI.resources.dll
+E:\Report Monitor System\Solution1\Solution1.Win\bin\Debug\ru\DevExpress.Utils.v20.2.UI.resources.dll
+E:\Report Monitor System\Solution1\Solution1.Win\bin\Debug\de\DevExpress.XtraGauges.v20.2.Presets.resources.dll
+E:\Report Monitor System\Solution1\Solution1.Win\bin\Debug\es\DevExpress.XtraGauges.v20.2.Presets.resources.dll
+E:\Report Monitor System\Solution1\Solution1.Win\bin\Debug\ja\DevExpress.XtraGauges.v20.2.Presets.resources.dll
+E:\Report Monitor System\Solution1\Solution1.Win\bin\Debug\ru\DevExpress.XtraGauges.v20.2.Presets.resources.dll
+E:\Report Monitor System\Solution1\Solution1.Win\bin\Debug\de\DevExpress.Diagram.v20.2.Core.resources.dll
+E:\Report Monitor System\Solution1\Solution1.Win\bin\Debug\es\DevExpress.Diagram.v20.2.Core.resources.dll
+E:\Report Monitor System\Solution1\Solution1.Win\bin\Debug\ja\DevExpress.Diagram.v20.2.Core.resources.dll
+E:\Report Monitor System\Solution1\Solution1.Win\bin\Debug\ru\DevExpress.Diagram.v20.2.Core.resources.dll
+E:\Report Monitor System\Solution1\Solution1.Win\bin\Debug\de\DevExpress.Pdf.v20.2.Core.resources.dll
+E:\Report Monitor System\Solution1\Solution1.Win\bin\Debug\es\DevExpress.Pdf.v20.2.Core.resources.dll
+E:\Report Monitor System\Solution1\Solution1.Win\bin\Debug\ja\DevExpress.Pdf.v20.2.Core.resources.dll
+E:\Report Monitor System\Solution1\Solution1.Win\bin\Debug\ru\DevExpress.Pdf.v20.2.Core.resources.dll
+E:\Report Monitor System\Solution1\Solution1.Win\bin\Debug\de\DevExpress.XtraScheduler.v20.2.Core.resources.dll
+E:\Report Monitor System\Solution1\Solution1.Win\bin\Debug\es\DevExpress.XtraScheduler.v20.2.Core.resources.dll
+E:\Report Monitor System\Solution1\Solution1.Win\bin\Debug\ja\DevExpress.XtraScheduler.v20.2.Core.resources.dll
+E:\Report Monitor System\Solution1\Solution1.Win\bin\Debug\ru\DevExpress.XtraScheduler.v20.2.Core.resources.dll
+E:\Report Monitor System\Solution1\Solution1.Win\obj\Debug\EdgemMotorParts.WinApp.csprojAssemblyReference.cache
+E:\Report Monitor System\Solution1\Solution1.Win\obj\Debug\Solution1.Win.XafSplashScreen.resources
+E:\Report Monitor System\Solution1\Solution1.Win\obj\Debug\EdgemMotorParts.WinApp.csproj.GenerateResource.cache
+E:\Report Monitor System\Solution1\Solution1.Win\obj\Debug\EdgemMotorParts.WinApp.csproj.CoreCompileInputs.cache
+E:\Report Monitor System\Solution1\Solution1.Win\obj\Debug\EdgemMotorParts.WinApp.csproj.CopyComplete
+E:\Report Monitor System\Solution1\Solution1.Win\obj\Debug\EdgemMotorParts.WinApp.exe
+E:\Report Monitor System\Solution1\Solution1.Win\obj\Debug\EdgemMotorParts.WinApp.pdb
+E:\MotorPartsSystem\EdgemMotorParts\EdgemMotorParts.WinApp\bin\Debug\Model.xafml
+E:\MotorPartsSystem\EdgemMotorParts\EdgemMotorParts.WinApp\bin\Debug\EdgemMotorParts.WinApp.exe.config
+E:\MotorPartsSystem\EdgemMotorParts\EdgemMotorParts.WinApp\bin\Debug\EdgemMotorParts.WinApp.exe
+E:\MotorPartsSystem\EdgemMotorParts\EdgemMotorParts.WinApp\bin\Debug\EdgemMotorParts.WinApp.pdb
+E:\MotorPartsSystem\EdgemMotorParts\EdgemMotorParts.WinApp\bin\Debug\EdgemMotorParts.Module.dll
+E:\MotorPartsSystem\EdgemMotorParts\EdgemMotorParts.WinApp\bin\Debug\EdgemMotorParts.Module.Win.dll
+E:\MotorPartsSystem\EdgemMotorParts\EdgemMotorParts.WinApp\bin\Debug\EdgemMotorPart.Core.dll
+E:\MotorPartsSystem\EdgemMotorParts\EdgemMotorParts.WinApp\bin\Debug\EdgemMotorParts.Module.Win.pdb
+E:\MotorPartsSystem\EdgemMotorParts\EdgemMotorParts.WinApp\bin\Debug\EdgemMotorParts.Module.pdb
+E:\MotorPartsSystem\EdgemMotorParts\EdgemMotorParts.WinApp\bin\Debug\EdgemMotorPart.Core.pdb
+E:\MotorPartsSystem\EdgemMotorParts\EdgemMotorParts.WinApp\obj\Debug\EdgemMotorParts.WinApp.csprojAssemblyReference.cache
+E:\MotorPartsSystem\EdgemMotorParts\EdgemMotorParts.WinApp\obj\Debug\EdgemMotorParts.WinApp.Properties.Resources.resources
+E:\MotorPartsSystem\EdgemMotorParts\EdgemMotorParts.WinApp\obj\Debug\Solution1.Win.XafSplashScreen.resources
+E:\MotorPartsSystem\EdgemMotorParts\EdgemMotorParts.WinApp\obj\Debug\EdgemMotorParts.WinApp.csproj.GenerateResource.cache
+E:\MotorPartsSystem\EdgemMotorParts\EdgemMotorParts.WinApp\obj\Debug\EdgemMotorParts.WinApp.exe.licenses
+E:\MotorPartsSystem\EdgemMotorParts\EdgemMotorParts.WinApp\obj\Debug\EdgemMotorParts.WinApp.csproj.CoreCompileInputs.cache
+E:\MotorPartsSystem\EdgemMotorParts\EdgemMotorParts.WinApp\obj\Debug\EdgemMotorParts.WinApp.csproj.CopyComplete
+E:\MotorPartsSystem\EdgemMotorParts\EdgemMotorParts.WinApp\obj\Debug\EdgemMotorParts.WinApp.exe
+E:\MotorPartsSystem\EdgemMotorParts\EdgemMotorParts.WinApp\obj\Debug\EdgemMotorParts.WinApp.pdb
+F:\Project\EdgemMotorParts\EdgemMotorParts.WinApp\obj\Debug\EdgemMotorParts.WinApp.Properties.Resources.resources
+F:\Project\EdgemMotorParts\EdgemMotorParts.WinApp\obj\Debug\Solution1.Win.XafSplashScreen.resources
+F:\Project\EdgemMotorParts\EdgemMotorParts.WinApp\obj\Debug\EdgemMotorParts.WinApp.csproj.GenerateResource.cache
+F:\Project\EdgemMotorParts\EdgemMotorParts.WinApp\obj\Debug\EdgemMotorParts.WinApp.exe.licenses
+F:\Project\EdgemMotorParts\EdgemMotorParts.WinApp\obj\Debug\EdgemMotorParts.WinApp.csproj.CoreCompileInputs.cache
+F:\Project\EdgemMotorParts\EdgemMotorParts.WinApp\bin\Debug\Model.xafml
+F:\Project\EdgemMotorParts\EdgemMotorParts.WinApp\bin\Debug\EdgemMotorParts.WinApp.exe.config
+F:\Project\EdgemMotorParts\EdgemMotorParts.WinApp\bin\Debug\EdgemMotorParts.WinApp.exe
+F:\Project\EdgemMotorParts\EdgemMotorParts.WinApp\bin\Debug\EdgemMotorParts.WinApp.pdb
+F:\Project\EdgemMotorParts\EdgemMotorParts.WinApp\bin\Debug\EdgemMotorPart.Core.dll
+F:\Project\EdgemMotorParts\EdgemMotorParts.WinApp\bin\Debug\EdgemMotorParts.Module.dll
+F:\Project\EdgemMotorParts\EdgemMotorParts.WinApp\bin\Debug\EdgemMotorParts.Module.Win.dll
+F:\Project\EdgemMotorParts\EdgemMotorParts.WinApp\bin\Debug\EdgemMotorPart.Core.pdb
+F:\Project\EdgemMotorParts\EdgemMotorParts.WinApp\bin\Debug\EdgemMotorParts.Module.Win.pdb
+F:\Project\EdgemMotorParts\EdgemMotorParts.WinApp\bin\Debug\EdgemMotorParts.Module.pdb
+F:\Project\EdgemMotorParts\EdgemMotorParts.WinApp\obj\Debug\EdgemMotorParts.WinApp.csprojAssemblyReference.cache
+F:\Project\EdgemMotorParts\EdgemMotorParts.WinApp\obj\Debug\EdgemMotorParts.WinApp.csproj.CopyComplete
+F:\Project\EdgemMotorParts\EdgemMotorParts.WinApp\obj\Debug\EdgemMotorParts.WinApp.exe
+F:\Project\EdgemMotorParts\EdgemMotorParts.WinApp\obj\Debug\EdgemMotorParts.WinApp.pdb

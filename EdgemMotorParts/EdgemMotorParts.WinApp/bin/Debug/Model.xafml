@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Application Logo="ExpressAppLogo">
+  <NavigationItems NavigationStyle="Accordion" ShowImages="False" DefaultChildItemsDisplayStyle="List">
+    <Items>
+      <Item Id="Default">
+        <Items>
+          <Item Id="@7b692308-bc10-40d9-aa50-f8a31704ab02" Caption="HomePage" ViewId="HomeNavId" IsNewNode="True" />
+        </Items>
+      </Item>
+    </Items>
+  </NavigationItems>
+  <Options UIType="SingleWindowSDI" FormStyle="Ribbon" ShowTabImage="False" Skin="The Bezier">
+    <LayoutManagerOptions EnableLayoutGroupImages="False" />
+  </Options>
+  <SchemaModules>
+    <SchemaModule Name="CloneObjectModule" Version="20.2.5.0" IsNewNode="True" />
+    <SchemaModule Name="SystemModule" Version="20.2.5.0" IsNewNode="True" />
+    <SchemaModule Name="SystemWindowsFormsModule" Version="20.2.5.0" IsNewNode="True" />
+  </SchemaModules>
+  <Views>
+    <DashboardView Id="HomeNavId" Caption="Home" IsNewNode="True">
+      <Items IsNewNode="True">
+        <ControlDetailItem Id="HomePage" ControlTypeName="EdgemMotorParts.Module.HomePage.HomePage" Caption="" IsNewNode="True" />
+      </Items>
+      <Layout IsNewNode="True">
+        <LayoutGroup Id="Main" ShowCaption="False" Caption="HomePage" TextAlignMode="AlignWithChildren" Index="0" RelativeSize="100" IsNewNode="True">
+          <LayoutItem Id="HomePage" TextAlignMode="CustomSize" ViewItem="HomePage" Index="0" RelativeSize="100" IsNewNode="True" />
+        </LayoutGroup>
+      </Layout>
+    </DashboardView>
+  </Views>
+</Application>

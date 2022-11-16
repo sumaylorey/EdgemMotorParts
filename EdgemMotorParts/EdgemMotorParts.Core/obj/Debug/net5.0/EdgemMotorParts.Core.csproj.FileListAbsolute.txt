@@ -1,0 +1,108 @@
+E:\Report Monitor System\Solution1\EdgemMotorParts.Core\bin\Debug\net5.0\EdgemMotorParts.Core.deps.json
+E:\Report Monitor System\Solution1\EdgemMotorParts.Core\bin\Debug\net5.0\EdgemMotorParts.Core.dll
+E:\Report Monitor System\Solution1\EdgemMotorParts.Core\bin\Debug\net5.0\ref\EdgemMotorParts.Core.dll
+E:\Report Monitor System\Solution1\EdgemMotorParts.Core\bin\Debug\net5.0\EdgemMotorParts.Core.pdb
+E:\Report Monitor System\Solution1\EdgemMotorParts.Core\bin\Debug\net5.0\DevExpress.ExpressApp.v20.2.dll
+E:\Report Monitor System\Solution1\EdgemMotorParts.Core\bin\Debug\net5.0\DevExpress.Xpo.v20.2.dll
+E:\Report Monitor System\Solution1\EdgemMotorParts.Core\bin\Debug\net5.0\DevExpress.Data.v20.2.dll
+E:\Report Monitor System\Solution1\EdgemMotorParts.Core\bin\Debug\net5.0\DevExpress.Utils.v20.2.dll
+E:\Report Monitor System\Solution1\EdgemMotorParts.Core\bin\Debug\net5.0\DevExpress.Images.v20.2.dll
+E:\Report Monitor System\Solution1\EdgemMotorParts.Core\bin\Debug\net5.0\DevExpress.Printing.v20.2.Core.dll
+E:\Report Monitor System\Solution1\EdgemMotorParts.Core\bin\Debug\net5.0\DevExpress.Data.Desktop.v20.2.dll
+E:\Report Monitor System\Solution1\EdgemMotorParts.Core\bin\Debug\net5.0\DevExpress.Pdf.v20.2.Core.dll
+E:\Report Monitor System\Solution1\EdgemMotorParts.Core\bin\Debug\net5.0\DevExpress.Pdf.v20.2.Drawing.dll
+E:\Report Monitor System\Solution1\EdgemMotorParts.Core\bin\Debug\net5.0\DevExpress.ExpressApp.v20.2.xml
+E:\Report Monitor System\Solution1\EdgemMotorParts.Core\bin\Debug\net5.0\DevExpress.Xpo.v20.2.xml
+E:\Report Monitor System\Solution1\EdgemMotorParts.Core\bin\Debug\net5.0\DevExpress.Data.v20.2.xml
+E:\Report Monitor System\Solution1\EdgemMotorParts.Core\bin\Debug\net5.0\DevExpress.Utils.v20.2.xml
+E:\Report Monitor System\Solution1\EdgemMotorParts.Core\bin\Debug\net5.0\DevExpress.Printing.v20.2.Core.xml
+E:\Report Monitor System\Solution1\EdgemMotorParts.Core\bin\Debug\net5.0\DevExpress.Data.Desktop.v20.2.xml
+E:\Report Monitor System\Solution1\EdgemMotorParts.Core\bin\Debug\net5.0\DevExpress.Pdf.v20.2.Core.xml
+E:\Report Monitor System\Solution1\EdgemMotorParts.Core\bin\Debug\net5.0\DevExpress.Pdf.v20.2.Drawing.xml
+E:\Report Monitor System\Solution1\EdgemMotorParts.Core\bin\Debug\net5.0\de\DevExpress.ExpressApp.v20.2.resources.dll
+E:\Report Monitor System\Solution1\EdgemMotorParts.Core\bin\Debug\net5.0\es\DevExpress.ExpressApp.v20.2.resources.dll
+E:\Report Monitor System\Solution1\EdgemMotorParts.Core\bin\Debug\net5.0\ja\DevExpress.ExpressApp.v20.2.resources.dll
+E:\Report Monitor System\Solution1\EdgemMotorParts.Core\bin\Debug\net5.0\ru\DevExpress.ExpressApp.v20.2.resources.dll
+E:\Report Monitor System\Solution1\EdgemMotorParts.Core\bin\Debug\net5.0\de\DevExpress.Xpo.v20.2.resources.dll
+E:\Report Monitor System\Solution1\EdgemMotorParts.Core\bin\Debug\net5.0\es\DevExpress.Xpo.v20.2.resources.dll
+E:\Report Monitor System\Solution1\EdgemMotorParts.Core\bin\Debug\net5.0\ja\DevExpress.Xpo.v20.2.resources.dll
+E:\Report Monitor System\Solution1\EdgemMotorParts.Core\bin\Debug\net5.0\ru\DevExpress.Xpo.v20.2.resources.dll
+E:\Report Monitor System\Solution1\EdgemMotorParts.Core\bin\Debug\net5.0\de\DevExpress.Data.v20.2.resources.dll
+E:\Report Monitor System\Solution1\EdgemMotorParts.Core\bin\Debug\net5.0\es\DevExpress.Data.v20.2.resources.dll
+E:\Report Monitor System\Solution1\EdgemMotorParts.Core\bin\Debug\net5.0\ja\DevExpress.Data.v20.2.resources.dll
+E:\Report Monitor System\Solution1\EdgemMotorParts.Core\bin\Debug\net5.0\ru\DevExpress.Data.v20.2.resources.dll
+E:\Report Monitor System\Solution1\EdgemMotorParts.Core\bin\Debug\net5.0\de\DevExpress.Utils.v20.2.resources.dll
+E:\Report Monitor System\Solution1\EdgemMotorParts.Core\bin\Debug\net5.0\es\DevExpress.Utils.v20.2.resources.dll
+E:\Report Monitor System\Solution1\EdgemMotorParts.Core\bin\Debug\net5.0\ja\DevExpress.Utils.v20.2.resources.dll
+E:\Report Monitor System\Solution1\EdgemMotorParts.Core\bin\Debug\net5.0\ru\DevExpress.Utils.v20.2.resources.dll
+E:\Report Monitor System\Solution1\EdgemMotorParts.Core\bin\Debug\net5.0\de\DevExpress.Printing.v20.2.Core.resources.dll
+E:\Report Monitor System\Solution1\EdgemMotorParts.Core\bin\Debug\net5.0\es\DevExpress.Printing.v20.2.Core.resources.dll
+E:\Report Monitor System\Solution1\EdgemMotorParts.Core\bin\Debug\net5.0\ja\DevExpress.Printing.v20.2.Core.resources.dll
+E:\Report Monitor System\Solution1\EdgemMotorParts.Core\bin\Debug\net5.0\ru\DevExpress.Printing.v20.2.Core.resources.dll
+E:\Report Monitor System\Solution1\EdgemMotorParts.Core\bin\Debug\net5.0\de\DevExpress.Pdf.v20.2.Core.resources.dll
+E:\Report Monitor System\Solution1\EdgemMotorParts.Core\bin\Debug\net5.0\es\DevExpress.Pdf.v20.2.Core.resources.dll
+E:\Report Monitor System\Solution1\EdgemMotorParts.Core\bin\Debug\net5.0\ja\DevExpress.Pdf.v20.2.Core.resources.dll
+E:\Report Monitor System\Solution1\EdgemMotorParts.Core\bin\Debug\net5.0\ru\DevExpress.Pdf.v20.2.Core.resources.dll
+E:\Report Monitor System\Solution1\EdgemMotorParts.Core\obj\Debug\net5.0\EdgemMotorParts.Core.csprojAssemblyReference.cache
+E:\Report Monitor System\Solution1\EdgemMotorParts.Core\obj\Debug\net5.0\EdgemMotorParts.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\Report Monitor System\Solution1\EdgemMotorParts.Core\obj\Debug\net5.0\EdgemMotorParts.Core.AssemblyInfoInputs.cache
+E:\Report Monitor System\Solution1\EdgemMotorParts.Core\obj\Debug\net5.0\EdgemMotorParts.Core.AssemblyInfo.cs
+E:\Report Monitor System\Solution1\EdgemMotorParts.Core\obj\Debug\net5.0\EdgemMotorParts.Core.csproj.CoreCompileInputs.cache
+E:\Report Monitor System\Solution1\EdgemMotorParts.Core\obj\Debug\net5.0\EdgemMotorParts.Core.csproj.CopyComplete
+E:\Report Monitor System\Solution1\EdgemMotorParts.Core\obj\Debug\net5.0\EdgemMotorParts.Core.dll
+E:\Report Monitor System\Solution1\EdgemMotorParts.Core\obj\Debug\net5.0\ref\EdgemMotorParts.Core.dll
+E:\Report Monitor System\Solution1\EdgemMotorParts.Core\obj\Debug\net5.0\EdgemMotorParts.Core.pdb
+E:\MotorPartsSystem\EdgemMotorParts\EdgemMotorParts.Core\bin\Debug\net5.0\EdgemMotorParts.Core.deps.json
+E:\MotorPartsSystem\EdgemMotorParts\EdgemMotorParts.Core\bin\Debug\net5.0\EdgemMotorParts.Core.dll
+E:\MotorPartsSystem\EdgemMotorParts\EdgemMotorParts.Core\bin\Debug\net5.0\ref\EdgemMotorParts.Core.dll
+E:\MotorPartsSystem\EdgemMotorParts\EdgemMotorParts.Core\bin\Debug\net5.0\EdgemMotorParts.Core.pdb
+E:\MotorPartsSystem\EdgemMotorParts\EdgemMotorParts.Core\bin\Debug\net5.0\DevExpress.ExpressApp.v20.2.dll
+E:\MotorPartsSystem\EdgemMotorParts\EdgemMotorParts.Core\bin\Debug\net5.0\DevExpress.Xpo.v20.2.dll
+E:\MotorPartsSystem\EdgemMotorParts\EdgemMotorParts.Core\bin\Debug\net5.0\DevExpress.Data.v20.2.dll
+E:\MotorPartsSystem\EdgemMotorParts\EdgemMotorParts.Core\bin\Debug\net5.0\DevExpress.Utils.v20.2.dll
+E:\MotorPartsSystem\EdgemMotorParts\EdgemMotorParts.Core\bin\Debug\net5.0\DevExpress.Images.v20.2.dll
+E:\MotorPartsSystem\EdgemMotorParts\EdgemMotorParts.Core\bin\Debug\net5.0\DevExpress.Printing.v20.2.Core.dll
+E:\MotorPartsSystem\EdgemMotorParts\EdgemMotorParts.Core\bin\Debug\net5.0\DevExpress.Data.Desktop.v20.2.dll
+E:\MotorPartsSystem\EdgemMotorParts\EdgemMotorParts.Core\bin\Debug\net5.0\DevExpress.Pdf.v20.2.Core.dll
+E:\MotorPartsSystem\EdgemMotorParts\EdgemMotorParts.Core\bin\Debug\net5.0\DevExpress.Pdf.v20.2.Drawing.dll
+E:\MotorPartsSystem\EdgemMotorParts\EdgemMotorParts.Core\bin\Debug\net5.0\DevExpress.ExpressApp.v20.2.xml
+E:\MotorPartsSystem\EdgemMotorParts\EdgemMotorParts.Core\bin\Debug\net5.0\DevExpress.Xpo.v20.2.xml
+E:\MotorPartsSystem\EdgemMotorParts\EdgemMotorParts.Core\bin\Debug\net5.0\DevExpress.Data.v20.2.xml
+E:\MotorPartsSystem\EdgemMotorParts\EdgemMotorParts.Core\bin\Debug\net5.0\DevExpress.Utils.v20.2.xml
+E:\MotorPartsSystem\EdgemMotorParts\EdgemMotorParts.Core\bin\Debug\net5.0\DevExpress.Printing.v20.2.Core.xml
+E:\MotorPartsSystem\EdgemMotorParts\EdgemMotorParts.Core\bin\Debug\net5.0\DevExpress.Data.Desktop.v20.2.xml
+E:\MotorPartsSystem\EdgemMotorParts\EdgemMotorParts.Core\bin\Debug\net5.0\DevExpress.Pdf.v20.2.Core.xml
+E:\MotorPartsSystem\EdgemMotorParts\EdgemMotorParts.Core\bin\Debug\net5.0\DevExpress.Pdf.v20.2.Drawing.xml
+E:\MotorPartsSystem\EdgemMotorParts\EdgemMotorParts.Core\bin\Debug\net5.0\de\DevExpress.ExpressApp.v20.2.resources.dll
+E:\MotorPartsSystem\EdgemMotorParts\EdgemMotorParts.Core\bin\Debug\net5.0\es\DevExpress.ExpressApp.v20.2.resources.dll
+E:\MotorPartsSystem\EdgemMotorParts\EdgemMotorParts.Core\bin\Debug\net5.0\ja\DevExpress.ExpressApp.v20.2.resources.dll
+E:\MotorPartsSystem\EdgemMotorParts\EdgemMotorParts.Core\bin\Debug\net5.0\ru\DevExpress.ExpressApp.v20.2.resources.dll
+E:\MotorPartsSystem\EdgemMotorParts\EdgemMotorParts.Core\bin\Debug\net5.0\de\DevExpress.Xpo.v20.2.resources.dll
+E:\MotorPartsSystem\EdgemMotorParts\EdgemMotorParts.Core\bin\Debug\net5.0\es\DevExpress.Xpo.v20.2.resources.dll
+E:\MotorPartsSystem\EdgemMotorParts\EdgemMotorParts.Core\bin\Debug\net5.0\ja\DevExpress.Xpo.v20.2.resources.dll
+E:\MotorPartsSystem\EdgemMotorParts\EdgemMotorParts.Core\bin\Debug\net5.0\ru\DevExpress.Xpo.v20.2.resources.dll
+E:\MotorPartsSystem\EdgemMotorParts\EdgemMotorParts.Core\bin\Debug\net5.0\de\DevExpress.Data.v20.2.resources.dll
+E:\MotorPartsSystem\EdgemMotorParts\EdgemMotorParts.Core\bin\Debug\net5.0\es\DevExpress.Data.v20.2.resources.dll
+E:\MotorPartsSystem\EdgemMotorParts\EdgemMotorParts.Core\bin\Debug\net5.0\ja\DevExpress.Data.v20.2.resources.dll
+E:\MotorPartsSystem\EdgemMotorParts\EdgemMotorParts.Core\bin\Debug\net5.0\ru\DevExpress.Data.v20.2.resources.dll
+E:\MotorPartsSystem\EdgemMotorParts\EdgemMotorParts.Core\bin\Debug\net5.0\de\DevExpress.Utils.v20.2.resources.dll
+E:\MotorPartsSystem\EdgemMotorParts\EdgemMotorParts.Core\bin\Debug\net5.0\es\DevExpress.Utils.v20.2.resources.dll
+E:\MotorPartsSystem\EdgemMotorParts\EdgemMotorParts.Core\bin\Debug\net5.0\ja\DevExpress.Utils.v20.2.resources.dll
+E:\MotorPartsSystem\EdgemMotorParts\EdgemMotorParts.Core\bin\Debug\net5.0\ru\DevExpress.Utils.v20.2.resources.dll
+E:\MotorPartsSystem\EdgemMotorParts\EdgemMotorParts.Core\bin\Debug\net5.0\de\DevExpress.Printing.v20.2.Core.resources.dll
+E:\MotorPartsSystem\EdgemMotorParts\EdgemMotorParts.Core\bin\Debug\net5.0\es\DevExpress.Printing.v20.2.Core.resources.dll
+E:\MotorPartsSystem\EdgemMotorParts\EdgemMotorParts.Core\bin\Debug\net5.0\ja\DevExpress.Printing.v20.2.Core.resources.dll
+E:\MotorPartsSystem\EdgemMotorParts\EdgemMotorParts.Core\bin\Debug\net5.0\ru\DevExpress.Printing.v20.2.Core.resources.dll
+E:\MotorPartsSystem\EdgemMotorParts\EdgemMotorParts.Core\bin\Debug\net5.0\de\DevExpress.Pdf.v20.2.Core.resources.dll
+E:\MotorPartsSystem\EdgemMotorParts\EdgemMotorParts.Core\bin\Debug\net5.0\es\DevExpress.Pdf.v20.2.Core.resources.dll
+E:\MotorPartsSystem\EdgemMotorParts\EdgemMotorParts.Core\bin\Debug\net5.0\ja\DevExpress.Pdf.v20.2.Core.resources.dll
+E:\MotorPartsSystem\EdgemMotorParts\EdgemMotorParts.Core\bin\Debug\net5.0\ru\DevExpress.Pdf.v20.2.Core.resources.dll
+E:\MotorPartsSystem\EdgemMotorParts\EdgemMotorParts.Core\obj\Debug\net5.0\EdgemMotorParts.Core.csprojAssemblyReference.cache
+E:\MotorPartsSystem\EdgemMotorParts\EdgemMotorParts.Core\obj\Debug\net5.0\EdgemMotorParts.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\MotorPartsSystem\EdgemMotorParts\EdgemMotorParts.Core\obj\Debug\net5.0\EdgemMotorParts.Core.AssemblyInfoInputs.cache
+E:\MotorPartsSystem\EdgemMotorParts\EdgemMotorParts.Core\obj\Debug\net5.0\EdgemMotorParts.Core.AssemblyInfo.cs
+E:\MotorPartsSystem\EdgemMotorParts\EdgemMotorParts.Core\obj\Debug\net5.0\EdgemMotorParts.Core.csproj.CoreCompileInputs.cache
+E:\MotorPartsSystem\EdgemMotorParts\EdgemMotorParts.Core\obj\Debug\net5.0\EdgemMotorParts.Core.csproj.CopyComplete
+E:\MotorPartsSystem\EdgemMotorParts\EdgemMotorParts.Core\obj\Debug\net5.0\EdgemMotorParts.Core.dll
+E:\MotorPartsSystem\EdgemMotorParts\EdgemMotorParts.Core\obj\Debug\net5.0\ref\EdgemMotorParts.Core.dll
+E:\MotorPartsSystem\EdgemMotorParts\EdgemMotorParts.Core\obj\Debug\net5.0\EdgemMotorParts.Core.pdb

@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EdgemMotorParts.Module", "EdgemMotorParts.Module\EdgemMotorParts.Module.csproj", "{4602F103-C513-45AD-BBBC-A00D39014B83}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EdgemMotorParts.Module.Win", "EdgemMotorParts.Module.Win\EdgemMotorParts.Module.Win.csproj", "{661D26A5-7F9E-47E0-BABB-9EADB1E6CEE2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EdgemMotorParts.WinApp", "EdgemMotorParts.WinApp\EdgemMotorParts.WinApp.csproj", "{0FFFFF15-6E5A-4589-96DE-19D4CC8B595B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Modules", "Modules", "{3963691A-201D-44D0-BC5D-346C1E00BE83}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core", "Core", "{5594388D-9446-459B-A78A-9D874D1A51C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EdgemMotorPart.Core", "EdgemMotorPart.Core\EdgemMotorPart.Core.csproj", "{892C767C-2B2E-43BC-9806-CEDA69BAA719}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		EasyTest|Any CPU = EasyTest|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4602F103-C513-45AD-BBBC-A00D39014B83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4602F103-C513-45AD-BBBC-A00D39014B83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4602F103-C513-45AD-BBBC-A00D39014B83}.EasyTest|Any CPU.ActiveCfg = EasyTest|Any CPU
+		{4602F103-C513-45AD-BBBC-A00D39014B83}.EasyTest|Any CPU.Build.0 = EasyTest|Any CPU
+		{4602F103-C513-45AD-BBBC-A00D39014B83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4602F103-C513-45AD-BBBC-A00D39014B83}.Release|Any CPU.Build.0 = Release|Any CPU
+		{661D26A5-7F9E-47E0-BABB-9EADB1E6CEE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{661D26A5-7F9E-47E0-BABB-9EADB1E6CEE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{661D26A5-7F9E-47E0-BABB-9EADB1E6CEE2}.EasyTest|Any CPU.ActiveCfg = EasyTest|Any CPU
+		{661D26A5-7F9E-47E0-BABB-9EADB1E6CEE2}.EasyTest|Any CPU.Build.0 = EasyTest|Any CPU
+		{661D26A5-7F9E-47E0-BABB-9EADB1E6CEE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{661D26A5-7F9E-47E0-BABB-9EADB1E6CEE2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0FFFFF15-6E5A-4589-96DE-19D4CC8B595B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FFFFF15-6E5A-4589-96DE-19D4CC8B595B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FFFFF15-6E5A-4589-96DE-19D4CC8B595B}.EasyTest|Any CPU.ActiveCfg = EasyTest|Any CPU
+		{0FFFFF15-6E5A-4589-96DE-19D4CC8B595B}.EasyTest|Any CPU.Build.0 = EasyTest|Any CPU
+		{0FFFFF15-6E5A-4589-96DE-19D4CC8B595B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FFFFF15-6E5A-4589-96DE-19D4CC8B595B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{892C767C-2B2E-43BC-9806-CEDA69BAA719}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{892C767C-2B2E-43BC-9806-CEDA69BAA719}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{892C767C-2B2E-43BC-9806-CEDA69BAA719}.EasyTest|Any CPU.ActiveCfg = Debug|Any CPU
+		{892C767C-2B2E-43BC-9806-CEDA69BAA719}.EasyTest|Any CPU.Build.0 = Debug|Any CPU
+		{892C767C-2B2E-43BC-9806-CEDA69BAA719}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{892C767C-2B2E-43BC-9806-CEDA69BAA719}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{4602F103-C513-45AD-BBBC-A00D39014B83} = {3963691A-201D-44D0-BC5D-346C1E00BE83}
+		{661D26A5-7F9E-47E0-BABB-9EADB1E6CEE2} = {3963691A-201D-44D0-BC5D-346C1E00BE83}
+		{892C767C-2B2E-43BC-9806-CEDA69BAA719} = {5594388D-9446-459B-A78A-9D874D1A51C9}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {260267DB-B032-4ECB-A41C-8CC873591B2A}
+	EndGlobalSection
+EndGlobal
